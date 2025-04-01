@@ -1,2 +1,2 @@
 # delta-demo
-A Practise Repo for Git.
+A Practise Repo for Git and GitHub.
